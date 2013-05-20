@@ -89,9 +89,10 @@ Teaching
 
 *   **Lecture Notes** 
 
-    Notes for Chapters 10-14 of *University Calculus* by Hass, et al. released open-source online:
+    Notes for multiple courses released open-source online:
 
-    <https://github.com/StevenClontz/HassNotes-10to14>
+    * *University Calculus* by Hass, et al <https://github.com/StevenClontz/HassNotes-10to14>
+    * *Calculus: Early Transcendentals* by Stewart <https://github.com/StevenClontz/Stewart-12to16>
 
 *   **Private tutoring**
 
@@ -150,7 +151,7 @@ List of Skills and Interests
 
 *   **Other**
 
-    Game design, puzzle design, videography, acting, trombone, singing (baritone), writing
+    Game design, puzzle design, videography, acting, music (trombone, singing), writing
 
 
 References
