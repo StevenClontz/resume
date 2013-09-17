@@ -55,4 +55,4 @@ Additional Qualifications/Experience
 
 Eagle Scout | Mathematics research and education | Game design | University outreach
 
-*Full resume / curriculum vita available at* <http://stevenclontz.github.com/resume/>
+*Full resume / curriculum vita available at* <http://stevenclontz.github.io/resume/>
