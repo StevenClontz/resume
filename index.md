@@ -104,7 +104,7 @@ Outreach
     *   Co-created annual [puzzlehunt](http://en.wikipedia.org/wiki/Puzzlehunt)-inspired mathematics competition for 7th/8th grade students in Spring 2012, and serves as Director for the event
     *   Served as writer, director, actor, videographer, and editor for videos featuring the "Auburn Math Police" Commissioner and various villains providing the scenario for the competition, as well as preparing puzzle worksheets to fit the theme
     *   Wrote several mathematical puzzles (including subjects like graph theory, number theory, game theory, geometry, etc.) to be solved by teams of 6-8 students, exploring Auburn University's campus to present their solutions to mathematics graduate students acting in character.
-    *   Coordinated a staff of 20 graduate and undergraduate student volunteers along with AU COSAM Outreach leadership.
+    *   Coordinated a staff of 35 graduate and undergraduate student volunteers along with AU COSAM Outreach leadership.
 
 *   **AU Explore - Math EXPO**
     *   Annual workshop for 5th grade students to play while using and learning mathematics
