@@ -62,8 +62,6 @@ Research interests include set theoretic topology and game theory, particularly 
 
         Dissertation, advisor Dr. Gary Gruenhage
 
-    *   *Locally Finite Subcovers for Bases on the Irrational Sorgenfrey Space* with J. Chaffee (in progress)
-
 *   **Presentations**
 
     *   *Limited Information Strategies for Topological Games*  (February 2013)
@@ -103,14 +101,14 @@ Outreach
 --------
 
 *   **A.M.P.'d (Auburn Mathematical Puzzle) Challenge**
-    *   Co-created annual [puzzlehunt](http://en.wikipedia.org/wiki/Puzzlehunt)-inspired mathematics competition for 7th/8th grade students in Spring 2012, and served as Director in Fall 2012
+    *   Co-created annual [puzzlehunt](http://en.wikipedia.org/wiki/Puzzlehunt)-inspired mathematics competition for 7th/8th grade students in Spring 2012, and serves as Director for the event
     *   Served as writer, director, actor, videographer, and editor for videos featuring the "Auburn Math Police" Commissioner and various villains providing the scenario for the competition, as well as preparing puzzle worksheets to fit the theme
     *   Wrote several mathematical puzzles (including subjects like graph theory, number theory, game theory, geometry, etc.) to be solved by teams of 6-8 students, exploring Auburn University's campus to present their solutions to mathematics graduate students acting in character.
     *   Coordinated a staff of 20 graduate and undergraduate student volunteers along with AU COSAM Outreach leadership.
 
 *   **AU Explore - Math EXPO**
     *   Annual workshop for 5th grade students to play while using and learning mathematics
-    *   Event coordinator for April 2013, volunteer from 2009-2012
+    *   Event coordinator for 2013-2014, volunteer from 2009-2012
 
 *   **Science Olympiad** Regional Competition volunteer (2010-2011)
 
