@@ -68,6 +68,10 @@ Research interests include set theoretic topology and game theory, particularly 
 
         AU Research Week 2013
 
+    *   *Mathematics is All Fun and Games* (October 2013)
+
+        AU COSAM Graduate Student Colloquium
+
     *   Frequent speaker in AU Set-Theoretic Topology Seminar
 
 *Research available online:* <http://github.com/StevenClontz/Research>
@@ -101,16 +105,14 @@ Outreach
 --------
 
 *   **A.M.P.'d (Auburn Mathematical Puzzle) Challenge**
-    *   Co-created annual [puzzlehunt](http://en.wikipedia.org/wiki/Puzzlehunt)-inspired mathematics competition for 7th/8th grade students in Spring 2012, and serves as Director for the event
-    *   Served as writer, director, actor, videographer, and editor for videos featuring the "Auburn Math Police" Commissioner and various villains providing the scenario for the competition, as well as preparing puzzle worksheets to fit the theme
-    *   Wrote several mathematical puzzles (including subjects like graph theory, number theory, game theory, geometry, etc.) to be solved by teams of 6-8 students, exploring Auburn University's campus to present their solutions to mathematics graduate students acting in character.
+    *   Co-created annual [puzzlehunt](http://en.wikipedia.org/wiki/Puzzlehunt)-inspired mathematics competition for 7th/8th grade students in Spring 2012, currently serving as AMP'd Event Director
+    *   Served as writer, director, actor, videographer, and editor for videos featuring the "Auburn Math Police" Commissioner and various villains providing the scenario for the competition, as well as designing all documentation to match the theme
+    *   Wrote several mathematical puzzles (including subjects like graph theory, number theory, game theory, geometry, etc.) to be solved by teams of 6-8 students, exploring Auburn University's campus to present their solutions to mathematics graduate student judges.
     *   Coordinated a staff of 35 graduate and undergraduate student volunteers along with AU COSAM Outreach leadership.
 
 *   **AU Explore - Math EXPO**
     *   Annual workshop for 5th grade students to play while using and learning mathematics
     *   Event coordinator for 2013-2014, volunteer from 2009-2012
-
-*   **Science Olympiad** Regional Competition volunteer (2010-2011)
 
 
 Additional Relevant Experience
@@ -134,7 +136,6 @@ Additional Relevant Experience
 
 *   **Puzzle / Game Design**
     *   Regular organizer of multiple Auburn Puzzle Party puzzlehunt competitions since 2009.
-    *   Currently developing *SUMazing* web app and mobile game
 
 List of Skills and Interests
 ----------------------------
@@ -143,13 +144,13 @@ List of Skills and Interests
 
     Set theoretic topology, game theory, graph theory, geometry, calculus, proof techniques
 
-*   **Technology**
+*   **Programming**
 
     HTML (HTML5), CSS (LESS, SASS, SCSS), Javascript (jQuery, Coffeescript), PHP (Wordpress, Wolf CMS), Python (Django), Coldfusion (Wheels), Ruby (Rails), SQL, LaTeX, Git, Mercurial
 
 *   **Other**
 
-    Game design, puzzle design, videography, acting, music (trombone, singing), writing
+    Game design, puzzle design, videography, acting, music, writing
 
 
 References
