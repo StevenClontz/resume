@@ -81,13 +81,14 @@ Teaching
 --------
 
 *   **Courses Taught**
+    *   Elementary Algebra
     *   Calculus I (regular and Honors)
     *   Calculus II
     *   Calculus III (regular and Honors)
-    *   Intermediate Euclidean Geometry I (5000-level course)
+    *   Intermediate Euclidean Geometry I (senior-level course)
 *   **Student Evaluation Excerpts**
     
-    <http://www.stevenclontz.com/blog/2013/05/07/teacher-evaluations-2013/>
+    <http://www.stevenclontz.com/teaching>
 
 *   **Lecture Notes** 
 
