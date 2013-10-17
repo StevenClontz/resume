@@ -72,7 +72,13 @@ Research interests include set theoretic topology and game theory, particularly 
 
         AU COSAM Graduate Student Colloquium
 
+    *   *Mathematics is Just Fun and Games* (October 2013)
+
+        AU 3MT Competition
+
     *   Frequent speaker in AU Set-Theoretic Topology Seminar
+
+*   Awarded COSAM Research Travel Award for Fall 2013
 
 *Research available online:* <http://github.com/StevenClontz/Research>
 
@@ -81,7 +87,7 @@ Teaching
 --------
 
 *   **Courses Taught**
-    *   Elementary Algebra
+    *   Elementary Algebra (developmental course | powered by ALEKS)
     *   Calculus I (regular and Honors)
     *   Calculus II
     *   Calculus III (regular and Honors)
@@ -108,7 +114,7 @@ Outreach
 *   **A.M.P.'d (Auburn Mathematical Puzzle) Challenge**
     *   Co-created annual [puzzlehunt](http://en.wikipedia.org/wiki/Puzzlehunt)-inspired mathematics competition for 7th/8th grade students in Spring 2012, currently serving as AMP'd Event Director
     *   Served as writer, director, actor, videographer, and editor for videos featuring the "Auburn Math Police" Commissioner and various villains providing the scenario for the competition, as well as designing all documentation to match the theme
-    *   Wrote several mathematical puzzles (including subjects like graph theory, number theory, game theory, geometry, etc.) to be solved by teams of 6-8 students, exploring Auburn University's campus to present their solutions to mathematics graduate student judges.
+    *   Wrote several mathematical puzzles (including subjects like graph theory, number theory, game theory, geometry, etc.) to be solved by teams of 6-8 students, and presented to mathematics graduate student judges.
     *   Coordinated a staff of 35 graduate and undergraduate student volunteers along with AU COSAM Outreach leadership.
 
 *   **AU Explore - Math EXPO**
@@ -147,7 +153,7 @@ List of Skills and Interests
 
 *   **Programming**
 
-    HTML (HTML5), CSS (LESS, SASS, SCSS), Javascript (jQuery, Coffeescript), PHP (Wordpress, Wolf CMS), Python (Django), Coldfusion (Wheels), Ruby (Rails), SQL, LaTeX, Git, Mercurial
+    HTML (HTML5), CSS (LESS, SASS, SCSS), Javascript (jQuery, Coffeescript), PHP (Wordpress, Wolf CMS), Python (Django), Coldfusion (Wheels), Ruby (Rails), SQL, LaTeX, Git
 
 *   **Other**
 
