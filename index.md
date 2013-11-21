@@ -76,6 +76,11 @@ Research interests include set theoretic topology and game theory, particularly 
 
         AU 3MT Competition
 
+    *   *Characterizing Covering Properties Using Limited Information Strategies for
+Topological Games* (January 2014)
+
+        2014 Joint Mathematics Meetings, Baltimore, Maryland
+
     *   Frequent speaker in AU Set-Theoretic Topology Seminar
 
 *   Awarded COSAM Research Travel Award for Fall 2013
