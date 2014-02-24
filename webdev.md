@@ -70,7 +70,7 @@ Education
 and More
 --------
 
-Eagle Scout | Mathematics research, education, and outreach | Game design
+Eagle Scout | Mathematics research, instruction, and outreach | Puzzle design
 
 *Full resume / curriculum vita available at* <http://resume.stevenclontz.com>
 

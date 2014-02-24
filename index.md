@@ -87,7 +87,7 @@ structure of linearly ordered topological spaces.
 
 *   **Presentations**
 
-    *   *Limited Information Strategies for Topological Games*  
+    *   *Limited Information Strategies for Topological Games* 
         (February 2013)
 
         AU Research Week 2013
@@ -230,6 +230,20 @@ Puzzle and Game Design
 *   **A.M.P.'d Challenge**
     *   Created mathematical puzzle competition at Auburn University. (See 
         Outreach.)
+
+Leadership
+----------
+
+*   **Boy Scouts of America**
+    *   Eagle Scout
+    *   National Youth Leadership Training staffer 2003-2011, course leader
+        in 2006
+
+*   **Auburn University**
+    *   Auburn University Bands Freshman Advisor ("R.A.T. Leader") in 2007
+    *   Founded Math Club in 2008, serving as Vice President in its first year
+    *   Appointed Graduate Student Council Webmaster in 2010
+    *   Elected Graduate Student Council President in 2011
 
 
 List of Skills and Interests
